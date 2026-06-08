@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Augmented Intelligence Policy",
+    "organization": "American Medical Association",
+    "short": "AMA AI Policy",
+    "url": "https://www.ama-assn.org/delivering-care/ethics/augmented-intelligence-health-care",
+    "known_year": 2018
+  },
+  {
+    "name": "AI Principles",
+    "organization": "Organisation for Economic Co-operation and Development",
+    "short": "OECD AI Principles",
+    "url": "https://oecd.ai/en/ai-principles",
+    "known_year": 2019
+  },
+  {
+    "name": "AI Risk Management Framework",
+    "organization": "U.S. National Institute of Standards and Technology",
+    "short": "NIST AI RMF",
+    "url": "https://www.nist.gov/system/files/documents/2023/01/26/AI%20RMF%201.0.pdf",
+    "known_year": 2023
+  },
+  {
+    "name": "AI Code of Conduct",
+    "organization": "National Academy of Medicine",
+    "short": "NAM AI Code of Conduct",
+    "url": "https://nam.edu/artificial-intelligence-special-initiative/",
+    "known_year": 2019
+  },
+  {
+    "name": "FUTURE-AI",
+    "organization": "FUTURE-AI International Expert Group",
+    "short": "FUTURE-AI",
+    "url": "https://future-ai.eu/",
+    "known_year": 2021
+  },
+  {
+    "name": "Responsible AI Guidance",
+    "organization": "Coalition for Health AI (CHAI)",
+    "short": "CHAI Responsible AI",
+    "url": "https://chai.org/",
+    "known_year": 2023
+  }
+]
